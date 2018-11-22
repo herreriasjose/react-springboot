@@ -1,0 +1,156 @@
+# Linux
+# backup files
+*~
+
+# Windows
+# thumbnails
+Thumbs.db
+
+# Mac OS X
+# metadata
+.DS_Store
+# thumbnails
+._*
+
+# dependencies
+/node_modules
+package-lock.json
+
+# testing
+/coverage
+/__snapshots__
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Metadata
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Linux
+# backup files
+*~
+
+# Windows
+# thumbnails
+Thumbs.db
+
+# Mac OS X
+# metadata
+.DS_Store
+# thumbnails
+._*
+
+# GIT
+.git/
+
+# Java
+*.class
+# packages 
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.settings/
+.buildpath
+.classpath
+.project
+
+# Logging
+*.log
+
+# jME (binaries)
+*.so
+
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
