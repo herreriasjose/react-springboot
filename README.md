@@ -1,4 +1,4 @@
-# Pack your React frontend into a Spring boot application
+# Pack your React frontend into a Spring Boot application
 
 
 ![alt text](images/springboot-react-06.png)
