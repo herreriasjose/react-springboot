@@ -240,7 +240,7 @@ So, our next steps will be:
 
 As we want to automate this process we will make use of 2 plugins available for Maven:
 
-■  frontend-maven-plugin (https://github.com/eirslett/frontend-maven-plugin) nos permite instalar, entre otros, Node y NPM localmente.
+■  frontend-maven-plugin (https://github.com/eirslett/frontend-maven-plugin) allows us to install, among others, Node and NPM locally.
 
 ■  maven-antrun-plugin (http://maven.apache.org/plugins/maven-antrun-plugin/) provides the ability to run Ant tasks from within Maven.  
 
